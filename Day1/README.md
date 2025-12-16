@@ -12,3 +12,6 @@
 //      return 0;
 //   } 
 //-> Reference: alias name for another variable in memory.
+// Dynamic Allocation:
+//-> In C: void* malloc(size in bytes), free(address).
+//-> In C++: new, delete[] address.
